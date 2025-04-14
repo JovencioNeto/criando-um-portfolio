@@ -95,3 +95,9 @@ i:hover{
   color: #007b85;
 }
 
+.flex-between {
+    display: flex;   
+    justify-content: space-between; 
+    color: #006f75;               
+    gap: 1rem;                    
+}
